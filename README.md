@@ -1,1 +1,1 @@
-# idcardocr
+# OCR for ID Card Recognition
